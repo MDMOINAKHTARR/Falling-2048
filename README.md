@@ -60,8 +60,7 @@ Use arrow keys to control the tile's movement and make strategic merges.
 
 ## 📸 Screenshot
 
-> _Add a screenshot or GIF here (optional)_  
-> You can use [ScreenToGif](<img width="509" height="814" alt="image" src="https://github.com/user-attachments/assets/758f8b43-c536-43dc-b352-f79d2c48f32c" />
+(<img width="509" height="814" alt="image" src="https://github.com/user-attachments/assets/758f8b43-c536-43dc-b352-f79d2c48f32c" />
 ---
 
 ## 🚀 How to Run
